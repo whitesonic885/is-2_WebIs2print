@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "is2print", "http://localhost/is2/is2print/is2print.csproj", "{C5444391-2D32-453B-9A56-B3DCD4325ED7}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{C5444391-2D32-453B-9A56-B3DCD4325ED7}.Debug.ActiveCfg = Debug|.NET
+		{C5444391-2D32-453B-9A56-B3DCD4325ED7}.Debug.Build.0 = Debug|.NET
+		{C5444391-2D32-453B-9A56-B3DCD4325ED7}.Release.ActiveCfg = Release|.NET
+		{C5444391-2D32-453B-9A56-B3DCD4325ED7}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
